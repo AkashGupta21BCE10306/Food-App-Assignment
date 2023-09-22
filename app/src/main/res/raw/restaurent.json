@@ -1,0 +1,238 @@
+[
+  {
+    "name":"Domino's Pizza",
+    "address":"7225 W Harem Ave.",
+    "delivery_charge": 5,
+    "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.inc42.com%2Fwp-content%2Fuploads%2F2023%2F05%2FDominos-ONDC-feature.png&tbnid=QmqsaqXKxlKMmM&vet=12ahUKEwjC1-TB072BAxW7pukKHfv2AKEQMygGegUIARCAAQ..i&imgrefurl=https%3A%2F%2Finc42.com%2Fbuzz%2Fdominos-india-set-join-ondc-party%2F&docid=pmXtMrhb4aATrM&w=1360&h=1020&q=dominos&ved=2ahUKEwjC1-TB072BAxW7pukKHfv2AKEQMygGegUIARCAAQ",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Spaghetti",
+        "price": 10.00,
+        "url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/7/17/1/FN_Simple-Spaghetti-with-Tomato-Sauce_s4x3.jpg.rend.hgtvcom.826.620.suffix/1408069256188.jpeg"
+      },
+      {
+        "name": "Spaghettios Pizza",
+        "price": 13.99,
+        "url": "https://lh3.googleusercontent.com/p/AF1QipN-WboPX7pEgnNqg78wranzezsGMdPfwCoxQjdJ=s1280-p-no-v1"
+      },
+      {
+        "name": "Chocolate Pizza",
+        "price": 4.99,
+        "url": "https://149366112.v2.pressablecdn.com/wp-content/uploads/2017/08/blah.jpg"
+      },
+      {
+        "name": "Cheese Sticks",
+        "price": 5.49,
+        "url": "https://www.spendwithpennies.com/wp-content/uploads/2013/10/Cheese-Sticks-SpendWithPennies-2-21-500x500.jpg"
+      },
+      {
+        "name": "CHICKEN FINGER SANDWICH",
+        "price": 4.00,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "FINGERZ BOXED LUNCH",
+        "price": 3.25,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "HOUSE ZALAD BOXED",
+        "price": 5.49,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "COBB ZALAD BOXED",
+        "price": 3.99,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70468/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "COOKIE AND BROWNIE ",
+        "price": 8.09,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "BROWNIE PLATTER",
+        "price": 6.49,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
+      }
+    ]
+  },
+  {
+    "name":"Raman Hotdogs",
+    "address":"469 W Huron St.",
+    "delivery_charge": 4,
+    "image":"https://i.ebayimg.com/images/g/LCUAAOSwgYlcvCtg/s-l1600.jpg",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 1:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Hot Dog",
+        "price": 2.99,
+        "url": "https://awrestaurants.com/sites/default/files/hotdog_0.png"
+      },
+      {
+        "name": "Cheese Dog",
+        "price": 3.59,
+        "url": "https://www.cookingpanda.com/wp-content/uploads/2020/07/7R26235-16x9-1-scaled.jpg"
+      },
+      {
+        "name": "Midway Monster",
+        "price": 5.44,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF2KzBUdwZjGoJIWIqHGHDozwcr3_oGrkhYQ&usqp=CAU"
+      },
+      {
+        "name": "Fries",
+        "price": 2.00,
+        "url": "https://images.fineartamerica.com/images-medium-large-5/crinkle-cut-french-fries-full-frame-foodcollection.jpg"
+      },
+      {
+        "name": "Milkshake",
+        "price": 3.49,
+        "url": "https://files.heftycdn.com/wp-content/uploads/2020/06/7c19980b4ec07e741b2823ea45370467.png"
+      },
+      {
+        "name": "Chocolate Shake",
+        "price": 4.95,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Strawberry Shake",
+        "price": 3.59,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Filet-O-Fish",
+        "price": 5.49,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
+      },
+      {
+        "name": "McNuggets",
+        "price": 3.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Combo Meal",
+        "price": 8.29,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "McMuffin Meal",
+        "price": 6.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Egg-McMuffin-Extra-Value-Meals.jpg?$Product_Desktop$"
+      }
+    ]
+  },
+  {
+    "name":"McDonald's",
+    "address":"10975 State Bridge Rd.",
+    "delivery_charge": 5,
+    "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fmcdonalds-logo-fast-food-restaurant-branch-yellow-macdonald-popular-company-rostov-don-russia-mac-donald-brand-logotype-258345305.jpg&tbnid=XD5rqfHD8dM2hM&vet=12ahUKEwjowZnt072BAxUsmmMGHdsXC-sQMygIegUIARCKAQ..i&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fmcdonalds-logo-fast-food-restaurant-branch-copy-space-yellow-macdonald-company-rostov-don-russia-right-blue-sky-popular-image258344996&docid=jUfSWedcp_keuM&w=800&h=534&q=macdonald&ved=2ahUKEwjowZnt072BAxUsmmMGHdsXC-sQMygIegUIARCKAQ",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Chocolate Shake",
+        "price": 4.95,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Strawberry Shake",
+        "price": 3.59,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Filet-O-Fish",
+        "price": 5.49,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
+      },
+      {
+        "name": "McNuggets",
+        "price": 3.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Combo Meal",
+        "price": 8.29,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "McMuffin Meal",
+        "price": 6.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Egg-McMuffin-Extra-Value-Meals.jpg?$Product_Desktop$"
+      }
+    ]
+  },
+  {
+    "name":"Bakery& Restrount",
+    "address":"8777 windward pkwy.",
+    "delivery_charge": 6,
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Frestaurant-retro-vintage-style-logo_642964-120.jpg%3Fw%3D2000&tbnid=-9fzHFEyYSo50M&vet=12ahUKEwjHkLGp172BAxXR5DgGHab5Bg4QMygKegUIARCIAQ..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Frestaurant-logo&docid=2jiC1s_lMg6kBM&w=2000&h=2000&q=restaurant&ved=2ahUKEwjHkLGp172BAxXR5DgGHab5Bg4QMygKegUIARCIAQ",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "CHICKEN FINGER SANDWICH",
+        "price": 4.00,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "FINGERZ BOXED LUNCH",
+        "price": 3.25,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "HOUSE ZALAD BOXED",
+        "price": 5.49,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "COBB ZALAD BOXED",
+        "price": 3.99,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70468/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "COOKIE AND BROWNIE ",
+        "price": 8.09,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "BROWNIE PLATTER",
+        "price": 6.49,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
+      }
+    ]
+  }
+]
